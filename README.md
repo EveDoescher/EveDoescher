@@ -10,19 +10,18 @@
 </div>
   
   ##
-  
-  ## Linguagens
-  <div>
-    <div>
-      <p style="color:#F5BFEA">Linguagens estudadas</p>
+ 
+<div align="flex-start"> 
+<div>
+    <h3 style="color:#F5BFEA">Linguagens estudadas</h3>
       <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    </div>
-    <div>
-      <p>Linguagens de interesse</p>
+</div>
+<div>
+      <h3>Linguagens de interesse</h3>
       <img alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
       <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       <img alt="Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />        
-    </div>
-  </div>
+</div>
+</div>
