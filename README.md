@@ -1,5 +1,5 @@
 ## 🌸 Seja bem-vindo 🌸
-  Meu nome é **Evelynn Doescher** tenho 19 anos e sou desenvolvedora **Front-end**, estudo programação desde muito nova sempre tive interesse por computadores e pela tecnologia que evoluiu para um fascínio pela programação e pelo design, atualmente estou focando meus estudos nas linguagens **HTML, CSS, JavaScript e na biblioteca React.js**. Meu objetivo atual é aprimorar meus conhecimentos para me capacitar para o mercado e conseguir me inserir de vez nesta área no qual me identifico.
+  Meu nome é **Evelynn Doescher** tenho 19 anos e sou desenvolvedora **Front-end**, estudo programação desde muito nova sempre tive interesse por computadores e pela tecnologia que evoluiu para um fascínio pela programação e pelo design, atualmente estou focando meus estudos nas linguagens **HTML, CSS, JavaScript e em PHP**. Meu objetivo atual é aprimorar meus conhecimentos para me capacitar para o mercado e conseguir me inserir de vez nesta área no qual me identifico.
 
  ##
 
