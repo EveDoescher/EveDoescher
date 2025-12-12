@@ -18,9 +18,9 @@
 
 ### 🌸 Sobre Mim 🌸
  
-[cite_start]Tenho 21 anos e estou cursando **Análise e Desenvolvimento de Sistemas** na UNIP[cite: 26]. Minha paixão é a engenharia de software: entender como as peças se encaixam para criar soluções robustas.
+Tenho 21 anos e estou cursando **Análise e Desenvolvimento de Sistemas** na UNIP[cite: 26]. Minha paixão é a engenharia de software: entender como as peças se encaixam para criar soluções robustas.
 
-[cite_start]Tenho um background sólido em **Full Stack** (Python, C, JavaScript)[cite: 5, 21], mas atualmente meu foco total é no **Ecossistema Java Enterprise**. Gosto de desafios que envolvem performance, mensageria e arquitetura de microsserviços.
+Tenho um background sólido em **Full Stack** (Python, C, JavaScript)[cite: 5, 21], mas atualmente meu foco total é no **Ecossistema Java Enterprise**. Gosto de desafios que envolvem performance, mensageria e arquitetura de microsserviços.
 
 ---
 
