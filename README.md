@@ -50,7 +50,7 @@ Recentemente, desenvolvi uma **API de Ingestão de Logs** focada em alta perform
 
 **Ferramentas & Qualidade:**
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-FF6C37?style=for-the-badge&logo=insomnia&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
 
 ---
