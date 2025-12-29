@@ -18,9 +18,9 @@
 
 ### 🌸 Sobre Mim 🌸
 
-Tenho 21 anos e sou **Técnica em Informática para Internet** e graduanda em **Análise e Desenvolvimento de Sistemas** na UNIP. Minha jornada na programação começou cedo, o que me deu uma base sólida para transitar entre diferentes camadas do desenvolvimento de software.
+Tenho 21 anos e sou graduanda em **Análise e Desenvolvimento de Sistemas** na UNIP e formada como **Técnica em Informática para Internet**. Minha jornada na programação começou cedo, o que me deu uma base sólida para transitar entre diferentes camadas do desenvolvimento de software.
 
-Sou uma desenvolvedora versátil. Tenho experiência prática resolvendo problemas computacionais complexos com **C** e **Python**, criando interfaces dinâmicas com **React** e **Node.js**, e arquitetando sistemas robustos com **Java Spring Boot**. Meu foco é entregar software eficiente, seja otimizando um algoritmo de backend ou melhorando a experiência do usuário no frontend.
+Sou desenvolvedora Backend com foco em **Java** e no ecossistema **Spring Boot**. Especializada no desenvolvimento de **APIs REST** robustas e escaláveis, utilizo **JPA/Hibernate** para persistência eficiente e possuo ampla experiência com bancos de dados relacionais **(PostgreSQL, MySQL)** e NoSQL **(MongoDB)**. Tenho experiência em sistemas distribuídos, utilizando **RabbitMQ** para mensageria e **Docker** para containerização, garantindo soluções de alta performance e fácil manutenção.
 
 ---
 
